@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{DA44983F-2F1B-4772-8BA0-94DC3B8C229B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestTarzan", "UnitTestTarzan\UnitTestTarzan.csproj", "{676A6320-E872-4D73-81C6-18B5B6A643DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA44983F-2F1B-4772-8BA0-94DC3B8C229B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA44983F-2F1B-4772-8BA0-94DC3B8C229B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA44983F-2F1B-4772-8BA0-94DC3B8C229B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA44983F-2F1B-4772-8BA0-94DC3B8C229B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{676A6320-E872-4D73-81C6-18B5B6A643DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{676A6320-E872-4D73-81C6-18B5B6A643DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{676A6320-E872-4D73-81C6-18B5B6A643DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{676A6320-E872-4D73-81C6-18B5B6A643DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D5F403F-2930-45F8-90E6-033D36D532D4}
+	EndGlobalSection
+EndGlobal
